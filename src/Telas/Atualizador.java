@@ -17,10 +17,10 @@ import org.apache.commons.net.ftp.FTPFile;
 public class Atualizador extends javax.swing.JFrame {
     String mensagem = "";
         
-    String host                  = "ftp.ns3info.com.br";
+    String host                  = "sua url";
     int    porta                 = 21;
-    String usuario               = "ns3info";
-    String senha                 = "adm2322";
+    String usuario               = "seu user";
+    String senha                 = "sua senha";
     
     //JAR                                   Relatorios//
     String diretorioSistemaLocalJAR    = "C:\\Nsys\\";                 // Diretório   do sistema nsys 11/05/2017, verificar
